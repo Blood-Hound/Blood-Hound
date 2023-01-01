@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a professional web developer, and a programmer, with some skills on Graphic designing.
+I'm a professional web developer, and a programmer, with some skills on Graphic designing. Also very great at Failure Management.
 I can help you with anything above,
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)

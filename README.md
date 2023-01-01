@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm a professional web developer, and a programmer, with some skills on Graphic designing. Also very great at Failure Management.
+I'm a learning Software Engineer, I'm also very good at Failure Management.
 I can help you with anything above,
+<br>
 [![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)

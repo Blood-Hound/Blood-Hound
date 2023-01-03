@@ -69,10 +69,7 @@ General Things :
 Video Games(Ima gamer)(Ranked - Top to Bottom):
 
 - ![Valorant](https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white)
-- ![CS:GO](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
-- Escape From Tarkov
 - Enlisted
-- I.G.I
 
 -I listen to music on spotify-
 -I'm a very boring guy-
@@ -82,3 +79,4 @@ Video Games(Ima gamer)(Ranked - Top to Bottom):
 Find Me On :
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+Hehe, you thought I'd put my socials here? I remain out of reach. I was wondering how I'm supposed to get help.

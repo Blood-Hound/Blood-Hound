@@ -79,4 +79,5 @@ Video Games(Ima gamer)(Ranked - Top to Bottom):
 Find Me On :
 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<br>
 Hehe, you thought I'd put my socials here? I remain out of reach. I was wondering how I'm supposed to get help.
